@@ -1,0 +1,11 @@
+# Exclude temporary files
+*.tmp
+*.temp
+
+# Exclude build output
+/build/
+/dist/
+
+# Exclude sensitive information
+config.ini
+secrets.txt
